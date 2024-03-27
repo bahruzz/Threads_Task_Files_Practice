@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Threads, Task, Files\Threads_Task_Files_Homework\Threads_Task_Files_Homework\bin\Debug\net6.0\Threads_Task_Files_Homework.exe
+C:\Users\user\Desktop\Threads, Task, Files\Threads_Task_Files_Homework\Threads_Task_Files_Homework\bin\Debug\net6.0\Threads_Task_Files_Homework.deps.json
+C:\Users\user\Desktop\Threads, Task, Files\Threads_Task_Files_Homework\Threads_Task_Files_Homework\bin\Debug\net6.0\Threads_Task_Files_Homework.runtimeconfig.json
+C:\Users\user\Desktop\Threads, Task, Files\Threads_Task_Files_Homework\Threads_Task_Files_Homework\bin\Debug\net6.0\Threads_Task_Files_Homework.dll
+C:\Users\user\Desktop\Threads, Task, Files\Threads_Task_Files_Homework\Threads_Task_Files_Homework\bin\Debug\net6.0\Threads_Task_Files_Homework.pdb
+C:\Users\user\Desktop\Threads, Task, Files\Threads_Task_Files_Homework\Threads_Task_Files_Homework\obj\Debug\net6.0\Threads_Task_Files_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Threads, Task, Files\Threads_Task_Files_Homework\Threads_Task_Files_Homework\obj\Debug\net6.0\Threads_Task_Files_Homework.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Threads, Task, Files\Threads_Task_Files_Homework\Threads_Task_Files_Homework\obj\Debug\net6.0\Threads_Task_Files_Homework.AssemblyInfo.cs
+C:\Users\user\Desktop\Threads, Task, Files\Threads_Task_Files_Homework\Threads_Task_Files_Homework\obj\Debug\net6.0\Threads_Task_Files_Homework.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Threads, Task, Files\Threads_Task_Files_Homework\Threads_Task_Files_Homework\obj\Debug\net6.0\Threads_Task_Files_Homework.dll
+C:\Users\user\Desktop\Threads, Task, Files\Threads_Task_Files_Homework\Threads_Task_Files_Homework\obj\Debug\net6.0\refint\Threads_Task_Files_Homework.dll
+C:\Users\user\Desktop\Threads, Task, Files\Threads_Task_Files_Homework\Threads_Task_Files_Homework\obj\Debug\net6.0\Threads_Task_Files_Homework.pdb
+C:\Users\user\Desktop\Threads, Task, Files\Threads_Task_Files_Homework\Threads_Task_Files_Homework\obj\Debug\net6.0\Threads_Task_Files_Homework.genruntimeconfig.cache
+C:\Users\user\Desktop\Threads, Task, Files\Threads_Task_Files_Homework\Threads_Task_Files_Homework\obj\Debug\net6.0\ref\Threads_Task_Files_Homework.dll
